@@ -1,7 +1,5 @@
 # Building a Custom Real-Time Collaborative Markdown Editor
 
-## Introduction
-
 Welcome to the **Real-Time Collaborative Markdown Editor** project! This repository contains the backend implementation of a collaborative Markdown editor using **Node.js, Express, and Socket.IO**. The frontend can be developed using **React.js** to provide a seamless, real-time editing experience.
 
 ## Features
