@@ -2,6 +2,8 @@
 
 Welcome to the **Real-Time Collaborative Markdown Editor** project! This repository contains the backend implementation of a collaborative Markdown editor using **Node.js, Express, and Socket.IO**. The frontend can be developed using **React.js** to provide a seamless, real-time editing experience.
 
+> Front-End repository: https://github.com/BaseMax/custom-editor-react
+ 
 ## Features
 
 - **Real-Time Collaboration:** Multiple users can edit the same document simultaneously.
